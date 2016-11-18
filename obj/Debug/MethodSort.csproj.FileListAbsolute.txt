@@ -1,0 +1,11 @@
+D:\job\projects\MethodSort\MethodSort\bin\Debug\MethodSort.exe.config
+D:\job\projects\MethodSort\MethodSort\bin\Debug\MethodSort.exe
+D:\job\projects\MethodSort\MethodSort\bin\Debug\MethodSort.pdb
+D:\job\projects\MethodSort\MethodSort\bin\Debug\MyLibrary.dll
+D:\job\projects\MethodSort\MethodSort\bin\Debug\MyLibrary.pdb
+D:\job\projects\MethodSort\MethodSort\obj\Debug\MethodSort.csprojResolveAssemblyReference.cache
+D:\job\projects\MethodSort\MethodSort\obj\Debug\MethodSort.SortingForm.resources
+D:\job\projects\MethodSort\MethodSort\obj\Debug\MethodSort.Properties.Resources.resources
+D:\job\projects\MethodSort\MethodSort\obj\Debug\MethodSort.csproj.GenerateResource.Cache
+D:\job\projects\MethodSort\MethodSort\obj\Debug\MethodSort.exe
+D:\job\projects\MethodSort\MethodSort\obj\Debug\MethodSort.pdb
